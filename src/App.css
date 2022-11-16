@@ -1,0 +1,7 @@
+.page-item {
+  display: inline;
+}
+
+div:has(.modal-dialog){
+  backdrop-filter: blur(4px);
+}
